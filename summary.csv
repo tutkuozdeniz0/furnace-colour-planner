@@ -1,0 +1,5 @@
+strategy,transition_days,late_days,total_cost,vs_FIFO_%
+FIFO,14.9,41.5,555549.3,0.0
+Earliest due date,14.9,21.2,393465.8,-29.2
+Colour blocks (light to dark),5.4,14.0,193275.6,-65.2
+Optimal (exhaustive),5.5,5.1,122969.3,-77.9
